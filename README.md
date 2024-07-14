@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IndhiraKumaaran
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Web development 
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning  PHP 
+
   
 
 <!---
