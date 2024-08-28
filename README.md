@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IndhiraKumaaran
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning  PHP 
+- 🌱 I’m currently learning  React.js
 
   
 
